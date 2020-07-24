@@ -11,7 +11,7 @@ export class CalculatorComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+// test ng serve
   output: number;
   first: number;
   second: number;
